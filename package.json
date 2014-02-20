@@ -1,0 +1,30 @@
+{
+  "name": "segmentio-menu",
+  "description": "A menu UI element, with items that can be selected.",
+  "version": "0.2.1",
+  "keywords": [
+    "menu",
+    "list",
+    "collection",
+    "view",
+    "items"
+  ],
+  "main": "lib/index.js",
+  "styles": [
+    "lib/index.css"
+  ],
+  "dependencies": {
+    "component-dom": "git://github.com/npmcomponent/component-dom.git",
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "component-keyname": "git://github.com/npmcomponent/component-keyname.git",
+    "component-reactive": "git://github.com/npmcomponent/component-reactive.git",
+    "ianstormtaylor-get": "git://github.com/npmcomponent/ianstormtaylor-get.git",
+    "segmentio-list": "git://github.com/npmcomponent/segmentio-list.git",
+    "yields-prevent": "git://github.com/npmcomponent/yields-prevent.git",
+    "yields-slug": "git://github.com/npmcomponent/yields-slug.git"
+  },
+  "license": "MIT"
+}
